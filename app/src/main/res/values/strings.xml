@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">CarFix</string>
+
+    <string name="repair_list">Список автомобилей в ремонте</string>
+
+    <string name="search">Поиск…</string>
+
+    <string name="authorization_logo">Авторизация</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="authorization">Войти</string>
+    <string name="author">Гуровский Игорь РИБО-01-22</string>
+
+
+    <string name="car_brand_label">Марка автомобиля:</string>
+    <string name="car_model_label">Модель автомобиля:</string>
+    <string name="car_number_label">Номер автомобиля:</string>
+    <string name="repair_type_label">Тип ремонта:</string>
+    <string name="master_name_label">ФИО мастера-техника:</string>
+    <string name="repair_number_label">Ремонт №</string>
+
+    <string name="repair_number">0</string>
+    <string name="car_brand">Марка автомобиля</string>
+    <string name="car_model">Модель автомобиля</string>
+    <string name="car_number">Номер автомобиля</string>
+    <string name="repair_type">Тип ремонта</string>
+    <string name="master_name">ФИО мастера-техника</string>
+
+    <string name="new_repair">Новый ремонт</string>
+    <string name="add_repair">Добавить ремонт</string>
+    <string name="back">Назад</string>
+    <string name="back_title">Выйти?</string>
+    <string name="back_confirm_not_to_add">Уверены что хотите выйти без сохранения?</string>
+    <string name="add_success">Успешно добавлено!</string>
+    <string name="add_failed">Пожалуйста, заполните все поля.</string>
+
+    <string name="update_repair">Обновить данные о ремонте</string>
+    <string name="update_repair_success">Успешно обновлено!</string>
+    <string name="back_confirm_to_delete">Вы уверены, что хотите удалить?</string>
+    <string name="delete_title">Удалить?</string>
+    <string name="update_delete_success">Успешно удалено!</string>
+
+
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+</resources>
